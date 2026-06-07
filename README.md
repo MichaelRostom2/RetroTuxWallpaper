@@ -3,6 +3,8 @@ Forked from the original Repo, and added Light Mode.
 
 A wallpaper with tux in it. Made with Inkscape and GIMP.
 
+To install on KDE Plasma: extract "KDE Plasma.tar.gz" into /usr/share/wallpapers/
+
 <a href='https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/final_renders/desktopsimplefinal.png'><img src='https://raw.githubusercontent.com/MichaelRostom2/RetroTuxWallpaper/main/final_renders/desktopsimplefinal.png' alt='Orange version'/></a>
 
 <a href='https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/final_renders/lightdesktopsimple.png'><img src='https://raw.githubusercontent.com/MichaelRostom2/RetroTuxWallpaper/main/final_renders/lightdesktopsimple.png' alt='Orange Light version'/></a>
