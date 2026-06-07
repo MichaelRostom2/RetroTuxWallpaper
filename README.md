@@ -1,10 +1,17 @@
 # RetroTuxWallpaper
+Forked from the original Repo, and added Light Mode.
+
 A wallpaper with tux in it. Made with Inkscape and GIMP.
 
-<a href='https://github.com/wallmenis/RetroTuxWallpaper/blob/main/final_renders/desktopsimplefinal.png'><img src='https://raw.githubusercontent.com/wallmenis/RetroTuxWallpaper/main/final_renders/desktopsimplefinal.png' alt='Orange version'/></a>
+<a href='https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/final_renders/desktopsimplefinal.png'><img src='https://raw.githubusercontent.com/MichaelRostom2/RetroTuxWallpaper/main/final_renders/desktopsimplefinal.png' alt='Orange version'/></a>
 
-<a href='https://github.com/wallmenis/RetroTuxWallpaper/blob/main/final_renders/desktopsimplepurplefinal.png'><img src='https://raw.githubusercontent.com/wallmenis/RetroTuxWallpaper/main/final_renders/desktopsimplepurplefinal.png' alt='Purple version'/></a>
+<a href='https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/final_renders/lightdesktopsimplefinal.png'><img src='https://raw.githubusercontent.com/MichaelRostom2/RetroTuxWallpaper/main/final_renders/lightdesktopsimplefinal.png' alt='Orange Light version'/></a>
+
+
+<a href='https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/final_renders/desktopsimplepurplefinal.png'><img src='https://raw.githubusercontent.com/MichaelRostom/RetroTuxWallpaper/main/final_renders/desktopsimplepurplefinal.png' alt='Purple version'/></a>
+
+<a href='https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/final_renders/lightdesktopsimplepurplefinal.png'><img src='https://raw.githubusercontent.com/MichaelRostom/RetroTuxWallpaper/main/final_renders/lightdesktopsimplepurplefinal.png' alt='Light Purple version'/></a>
 
 
 ## License
-This project is licensed under [GPL-3.0](https://raw.githubusercontent.com/Illumina/licenses/master/gpl-3.0.txt).
+This project is licensed under [GPL-3.0](https://github.com/MichaelRostom2/RetroTuxWallpaper/blob/main/LICENSE).
